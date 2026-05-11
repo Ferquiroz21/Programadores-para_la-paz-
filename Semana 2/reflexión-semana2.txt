@@ -1,0 +1,9 @@
+es importante porque permite desarrollar 
+moverse rápidamente 
+entre carpetas,crear, editar 
+y organizar archivos de forma eficiente 
+Afenas facilita ejecutar comandos
+automatizar tareas y gestionar
+proyectos
+sin depender
+de interfaces graficas
